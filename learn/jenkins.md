@@ -98,6 +98,7 @@ pipeline {
         }
     }
 }
+```
 
 ## 6. Integrating Jenkins with version control systems
 Jenkins provides seamless integration with various version control systems (VCS) such as Git, Subversion, and Mercurial. This allows you to automate your build and deployment processes based on changes in your VCS repositories. In this section, we will guide you on how to integrate Jenkins with a version control system.
